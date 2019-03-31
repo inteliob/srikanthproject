@@ -21,4 +21,10 @@ class CheckEvenOdd
 
 out put add
 }
+<<<<<<< HEAD
 exit
+=======
+
+out put exe
+
+>>>>>>> dotnet
