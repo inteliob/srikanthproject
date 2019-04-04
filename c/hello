@@ -18,7 +18,9 @@ class CheckEvenOdd
      else
         System.out.println("Entered number is odd");
   }
-}
+
+out put add
 
 out put exe
+exit
 
